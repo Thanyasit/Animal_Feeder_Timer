@@ -1,1 +1,2 @@
-# Automatic_Pet_Feeder
+# Animal Feeder Timer
+<h2>Description</h2>
